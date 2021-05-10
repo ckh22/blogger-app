@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './Layout/App';
 
 function render() {
-  ReactDOM.render (<App/>, document.getElementById('root'));
+  ReactDOM.render (<div>Build In Progress!</div>, document.getElementById('root'));
 }
 
 if (module.hot) {
