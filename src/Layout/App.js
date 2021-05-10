@@ -3,7 +3,6 @@ import './App.scss'
 import {useFaker} from 'react-fakers'
 import {
     Button,
-    Card,
     Container,
     Form,
     Grid,
